@@ -1,0 +1,14 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+div a {
+    background-color: #989292;
+    padding: .3rem 1rem;
+    margin: .2rem .15rem;
+    border-radius: 10rem;
+    color: rgb(63, 63, 203);
+    font-weight: 600;
+}
